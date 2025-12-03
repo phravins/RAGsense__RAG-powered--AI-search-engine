@@ -1,0 +1,41 @@
+/* popup.css */
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 12px;
+  width: 360px;
+  background: #f7f9fc;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #c3c8d3;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+button {
+  width: 100%;
+  padding: 8px;
+  background: #0a66c2;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #004182;
+}
+
+#answer {
+  margin-top: 12px;
+  font-size: 14px;
+  white-space: pre-wrap;
+  color: #222;
+  max-height: 300px;
+  overflow-y: auto;
+}
