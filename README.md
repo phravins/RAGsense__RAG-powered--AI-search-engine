@@ -1,6 +1,6 @@
 # RAGsense: RAG powered AI Search Engine
 
-![RAGsense Logo](logo.jpg)
+![RAGsense Logo](logo.png)
 
 RAGsense is a RAG powered AI search engine that allows you to ask questions about the content of any web page you are currently visiting. It combines a Chrome Extension with a  Python backend powered by Retrieval-Augmented Generation (RAG).
 Built with 100 % open-source stack: **LangChain**, **RAG**, **Hugging-Face** embeddings + small LLM, **FAISS** vector store, and a tiny **Manifest-V3 Chrome extension*
@@ -102,9 +102,6 @@ RAGsense/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 AUTHOR: [Phravins](https://github.com/phravins)
 
-RAGsense - MIT licenced
+RAGsense - Eclipse Public License - v 2.0 licenced
